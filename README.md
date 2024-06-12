@@ -1,8 +1,6 @@
 # Comments-Toxicity-Classification-Deep-Learning-NLP-
 Toxic comments come in various flavors: hate speech, obscenity, threats, and offensive language. Detecting them manually is a Herculean task. Enter natural language processing (NLP) and deep learning—the dynamic duo that equips us to tackle this challenge head-on.
 
-# About Me
-I am a computer science engineer specialized in data science and machine learning, I offer my services on 'Upwork' and 'Freelancer'. you can check out my profile [https://www.freelancer.com/u/jalilb9] [https://www.upwork.com/freelancers/~01c41cc0b08423ddb3]
 
 # Project Description 
 The goal is to create a model that can accurately classify text comments, and evaluate them based on the level of toxicity. Toxicity encompasses various forms, including obscenity, hate speech, threats, and offensive language. By developing an effective classifier, we can enhance online safety and promote healthier interactions.
